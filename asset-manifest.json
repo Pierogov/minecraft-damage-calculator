@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minecraft-damage-calculator/static/css/main.d0aca627.css",
+    "main.js": "/minecraft-damage-calculator/static/js/main.fb05fd43.js",
+    "index.html": "/minecraft-damage-calculator/index.html",
+    "main.d0aca627.css.map": "/minecraft-damage-calculator/static/css/main.d0aca627.css.map",
+    "main.fb05fd43.js.map": "/minecraft-damage-calculator/static/js/main.fb05fd43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0aca627.css",
+    "static/js/main.fb05fd43.js"
+  ]
+}
